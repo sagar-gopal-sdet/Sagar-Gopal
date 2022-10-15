@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-vector/coding-system-banner_87720-2994.jpg?w=1380)]
+![MasterHead](https://img.freepik.com/premium-vector/coding-system-banner_87720-2994.jpg?w=1380)
 
 <h1 align="center">Hi 👋, I'm Sagar Gopal</h1>
 <h3 align="center">A passionate SDET with 9+ years of experience in the industry</h3>
